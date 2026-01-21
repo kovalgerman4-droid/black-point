@@ -5,8 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include/glm",
-                "/usr/include/**",
-                "/usr/bin/g++"
+                "/usr/include/**"
+                
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
